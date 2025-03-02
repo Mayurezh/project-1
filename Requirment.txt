@@ -1,0 +1,4 @@
+yfinance              0.1.73
+prophet               1.1
+streamlit             1.10.0
+plotly                5.9.0
